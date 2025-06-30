@@ -11,7 +11,7 @@ function Home(){
                     <h1>Mirage Studio 2D</h1>
                 </div>
                 <div className="slogan">
-                    <p>" <i>Where illusion comes alive in 2D.</i>"</p>
+                    <p><q><i>Where illusion comes alive in 2D.</i></q></p>
                 </div>
                 <div className="explore">
                     <p>EXPLORE OUR WORLD</p>
